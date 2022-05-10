@@ -1,172 +1,172 @@
 {
-    "submissions" : [
-        {
-            "id" : 1,
-            "challenge": "cityscape",
-            "photographer" : "Brody Losh",
-            "image" : "https://cdn.fstoppers.com/styles/full/s3/photos/2019/03/5620fbe75b6469385682287eae4afc70.jpg?itok=pbAENsCj",
-            "votes" : 0
-        },
-        {
-            "id" : 2,
-            "challenge": "cityscape",
-            "photographer" : "Brody Losh",
-            "image" : "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2l0eXNjYXBlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
-            "votes" : 0
-        },
-        {
-            "id" : 3,
-            "challenge": "cityscape",
-            "photographer" : "Brody Losh",
-            "image" : "https://www.vanalen.org/wp-content/uploads/2021/08/Brooklyn-Bridge-phCameronBlaylock.jpeg",
-            "votes" : 0
-        },
-        {
-            "id" : 4,
-            "challenge": "cityscape",
-            "photographer" : "Brody Losh",
-            "image" : "https://media.cntraveler.com/photos/53db21cf6dec627b14a1c453/master/pass/Times-Square-Tourist-Tips.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 5,
-            "challenge": "cityscape",
-            "photographer" : "Brody Losh",
-            "image" : "https://www.nycgo.com/images/articles/9648/washington-square-park-01-christopherpostlewaite-7314__medium.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 6,
-            "challenge": "cityscape",
-            "photographer" : "Brody Losh",
-            "image" : "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/flatiron-building.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 7,
-            "challenge": "cityscape",
-            "photographer" : "Brody Losh",
-            "image" : "https://cdn.contexttravel.com/image/upload/w_1500,q_60/v1571947279/blog/36%20Hours%20in%20NYC/NewYorkStreets.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 8,
-            "challenge": "cityscape",
-            "photographer" : "Brody Losh",
-            "image" : "https://photographylife.com/wp-content/uploads/2015/06/AJT_1222-Edit.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 9,
-            "challenge": "nature",
-            "photographer" : "Brody Losh",
-            "image" : "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2019/10/Karthika-Gupta-Compelling-Nature-Photos-6.jpg?fit=1500%2C1000&ssl=1",
-            "votes" : 0
-        },
-        {
-            "id" : 10,
-            "challenge": "nature",
-            "photographer" : "Brody Losh",
-            "image" : "https://cdn-ajggd.nitrocdn.com/kMoOFpDlsOVtlYJLrnSRNCQXaUFHZPTY/assets/static/optimized/rev-536aa32/wp-content/uploads/2021/01/nature-photography.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 11,
-            "challenge": "nature",
-            "photographer" : "Brody Losh",
-            "image" : "https://cdn2.outdoorphotographer.com/2021/04/focus-peaking-josh-miller-focus-peaking-5-457x305.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 12,
-            "challenge": "nature",
-            "photographer" : "Brody Losh",
-            "image" : "https://picturecorrect-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/nature-photography.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 13,
-            "challenge": "nature",
-            "photographer" : "Brody Losh",
-            "image" : "https://petapixel.com/assets/uploads/2022/03/world-nature-photography-awards-001.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 14,
-            "challenge": "nature",
-            "photographer" : "Brody Losh",
-            "image" : "https://cdn2.outdoorphotographer.com/2019/06/brian_matiash_scale02-824x550.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 15,
-            "challenge": "nature",
-            "photographer" : "Brody Losh",
-            "image" : "https://cdn.theatlantic.com/thumbor/ioJnPIFEl2j2pj8Cbc6zyNV09vQ=/900x600/media/img/photo/2022/03/winners-2021-world-nature-photograp/a03_apSBarua/original.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 16,
-            "challenge": "nature",
-            "photographer" : "Brody Losh",
-            "image" : "https://www.rei.com/dam/catskills_060117_003_hero_lg.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 17,
-            "challenge": "nature",
-            "photographer" : "Brody Losh",
-            "image" : "https://www.nfi.edu/wp-content/uploads/2021/10/Landscape-Photography_image1.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 18,
-            "challenge": "nature",
-            "photographer" : "Brody Losh",
-            "image" : "https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/12/04/09/WPO-8.jpg?quality=75&width=1200&auto=webp",
-            "votes" : 0
-        },
-        {
-            "id" : 19,
-            "challenge": "portrait",
-            "photographer" : "Brody Losh",
-            "image" : "https://images.squarespace-cdn.com/content/v1/53b599ebe4b08a2784696956/1405717490488-C7ZXWKWZF4I8UJNME653/CEOportrait_0101.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 20,
-            "challenge": "portrait",
-            "photographer" : "Brody Losh",
-            "image" : "https://images.squarespace-cdn.com/content/v1/571bf96620c6472939a37872/1553371547024-C11LKV0LVFW30WPW8YNM/IMG_20190322_211818.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 21,
-            "challenge": "portrait",
-            "photographer" : "Brody Losh",
-            "image" : "https://cherrydeck-blog.b-cdn.net/blog/wp-content/uploads/2019/06/Lea-Rieke-Chin-Up-Portrait.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 22,
-            "challenge": "portrait",
-            "photographer" : "Brody Losh",
-            "image" : "https://i.pinimg.com/originals/e7/47/54/e747541cffec80ae9c093a17e1df2414.jpg",
-            "votes" : 0
-        },
-        {
-            "id" : 23,
-            "challenge": "portrait",
-            "photographer" : "Brody Losh",
-            "image" : "https://images.unsplash.com/photo-1603775020644-eb8decd79994?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cG9ydHJhaXQlMjBwaG90b2dyYXBoeXxlbnwwfHwwfHw%3D&w=1000&q=80",
-            "votes" : 0
-        },
-        {
-            "id" : 24,
-            "challenge": "portrait",
-            "photographer" : "Brody Losh",
-            "image" : "https://i.pinimg.com/736x/54/2f/c6/542fc689badbe801946a08265729458a.jpg",
-            "votes" : 0
-        }
-    ]
+  "submissions": [
+    {
+      "id": 1,
+      "challenge": "cityscape",
+      "photographer": "Brody Losh",
+      "image": "https://cdn.fstoppers.com/styles/full/s3/photos/2019/03/5620fbe75b6469385682287eae4afc70.jpg?itok=pbAENsCj",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "challenge": "cityscape",
+      "photographer": "Brody Losh",
+      "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2l0eXNjYXBlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "votes": 0
+    },
+    {
+      "id": 3,
+      "challenge": "cityscape",
+      "photographer": "Brody Losh",
+      "image": "https://www.vanalen.org/wp-content/uploads/2021/08/Brooklyn-Bridge-phCameronBlaylock.jpeg",
+      "votes": 0
+    },
+    {
+      "id": 4,
+      "challenge": "cityscape",
+      "photographer": "Brody Losh",
+      "image": "https://media.cntraveler.com/photos/53db21cf6dec627b14a1c453/master/pass/Times-Square-Tourist-Tips.jpg",
+      "votes": 0
+    },
+    {
+      "id": 5,
+      "challenge": "cityscape",
+      "photographer": "Brody Losh",
+      "image": "https://www.nycgo.com/images/articles/9648/washington-square-park-01-christopherpostlewaite-7314__medium.jpg",
+      "votes": 0
+    },
+    {
+      "id": 6,
+      "challenge": "cityscape",
+      "photographer": "Brody Losh",
+      "image": "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/flatiron-building.jpg",
+      "votes": 0
+    },
+    {
+      "id": 7,
+      "challenge": "cityscape",
+      "photographer": "Brody Losh",
+      "image": "https://cdn.contexttravel.com/image/upload/w_1500,q_60/v1571947279/blog/36%20Hours%20in%20NYC/NewYorkStreets.jpg",
+      "votes": 0
+    },
+    {
+      "id": 8,
+      "challenge": "cityscape",
+      "photographer": "Brody Losh",
+      "image": "https://photographylife.com/wp-content/uploads/2015/06/AJT_1222-Edit.jpg",
+      "votes": 0
+    },
+    {
+      "id": 9,
+      "challenge": "nature",
+      "photographer": "Brody Losh",
+      "image": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2019/10/Karthika-Gupta-Compelling-Nature-Photos-6.jpg?fit=1500%2C1000&ssl=1",
+      "votes": 0
+    },
+    {
+      "id": 10,
+      "challenge": "nature",
+      "photographer": "Brody Losh",
+      "image": "https://cdn-ajggd.nitrocdn.com/kMoOFpDlsOVtlYJLrnSRNCQXaUFHZPTY/assets/static/optimized/rev-536aa32/wp-content/uploads/2021/01/nature-photography.jpg",
+      "votes": 0
+    },
+    {
+      "id": 11,
+      "challenge": "nature",
+      "photographer": "Brody Losh",
+      "image": "https://cdn2.outdoorphotographer.com/2021/04/focus-peaking-josh-miller-focus-peaking-5-457x305.jpg",
+      "votes": 0
+    },
+    {
+      "id": 12,
+      "challenge": "nature",
+      "photographer": "Brody Losh",
+      "image": "https://picturecorrect-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/nature-photography.jpg",
+      "votes": 0
+    },
+    {
+      "id": 13,
+      "challenge": "nature",
+      "photographer": "Brody Losh",
+      "image": "https://petapixel.com/assets/uploads/2022/03/world-nature-photography-awards-001.jpg",
+      "votes": 0
+    },
+    {
+      "id": 14,
+      "challenge": "nature",
+      "photographer": "Brody Losh",
+      "image": "https://cdn2.outdoorphotographer.com/2019/06/brian_matiash_scale02-824x550.jpg",
+      "votes": 0
+    },
+    {
+      "id": 15,
+      "challenge": "nature",
+      "photographer": "Brody Losh",
+      "image": "https://cdn.theatlantic.com/thumbor/ioJnPIFEl2j2pj8Cbc6zyNV09vQ=/900x600/media/img/photo/2022/03/winners-2021-world-nature-photograp/a03_apSBarua/original.jpg",
+      "votes": 0
+    },
+    {
+      "id": 16,
+      "challenge": "nature",
+      "photographer": "Brody Losh",
+      "image": "https://www.rei.com/dam/catskills_060117_003_hero_lg.jpg",
+      "votes": 0
+    },
+    {
+      "id": 17,
+      "challenge": "nature",
+      "photographer": "Brody Losh",
+      "image": "https://www.nfi.edu/wp-content/uploads/2021/10/Landscape-Photography_image1.jpg",
+      "votes": 0
+    },
+    {
+      "id": 18,
+      "challenge": "nature",
+      "photographer": "Brody Losh",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/12/04/09/WPO-8.jpg?quality=75&width=1200&auto=webp",
+      "votes": 0
+    },
+    {
+      "id": 19,
+      "challenge": "portrait",
+      "photographer": "Brody Losh",
+      "image": "https://images.squarespace-cdn.com/content/v1/53b599ebe4b08a2784696956/1405717490488-C7ZXWKWZF4I8UJNME653/CEOportrait_0101.jpg",
+      "votes": 0
+    },
+    {
+      "id": 20,
+      "challenge": "portrait",
+      "photographer": "Brody Losh",
+      "image": "https://images.squarespace-cdn.com/content/v1/571bf96620c6472939a37872/1553371547024-C11LKV0LVFW30WPW8YNM/IMG_20190322_211818.jpg",
+      "votes": 0
+    },
+    {
+      "id": 21,
+      "challenge": "portrait",
+      "photographer": "Brody Losh",
+      "image": "https://cherrydeck-blog.b-cdn.net/blog/wp-content/uploads/2019/06/Lea-Rieke-Chin-Up-Portrait.jpg",
+      "votes": 0
+    },
+    {
+      "id": 22,
+      "challenge": "portrait",
+      "photographer": "Brody Losh",
+      "image": "https://i.pinimg.com/originals/e7/47/54/e747541cffec80ae9c093a17e1df2414.jpg",
+      "votes": 0
+    },
+    {
+      "id": 23,
+      "challenge": "portrait",
+      "photographer": "Brody Losh",
+      "image": "https://images.unsplash.com/photo-1603775020644-eb8decd79994?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cG9ydHJhaXQlMjBwaG90b2dyYXBoeXxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "votes": 0
+    },
+    {
+      "id": 24,
+      "challenge": "portrait",
+      "photographer": "Brody Losh",
+      "image": "https://i.pinimg.com/736x/54/2f/c6/542fc689badbe801946a08265729458a.jpg",
+      "votes": 0
+    }
+  ]
 }

@@ -1,5 +1,5 @@
-import React from 'react';
-import styled from "styled-components";
+import React, { useEffect, useState } from 'react';
+import styled from 'styled-components';
 
 const SubImage = styled.img`
     width: 100%;
@@ -8,14 +8,27 @@ const SubImage = styled.img`
     overflow: hidden;
 `
 
-const SubmissionCard = ({ submission }) => {
-    return (
-        <div className="blockCard">
-            <p><strong>Photographer:</strong> {submission.photographer}</p>
-            <button>Votes: {submission.votes}</button>
-            <SubImage src={submission.image} />
-        </div>
-    );
+const SubmissionCard = ({ submission, updateVotes }) => {
+  const [votes, setVotes] = useState(submission.votes);
+
+  function handleClick() {
+    setVotes((votes) => votes + 1);
+  }
+
+  useEffect(() => {
+    let updatedVotes = {
+      votes: votes,
+    };
+    updateVotes(submission.id, updatedVotes);
+  }, [votes]);
+
+  return (
+    <div className="blockCard">
+      <p>Photographer: {submission.photographer}</p>
+      <button onClick={handleClick}>Votes: {votes}</button>
+      <SubImage src={submission.image} />
+    </div>
+  );
 };
 
 export default SubmissionCard;

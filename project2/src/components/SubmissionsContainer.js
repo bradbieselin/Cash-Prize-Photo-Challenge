@@ -1,5 +1,6 @@
 import React from 'react';
 import SubmissionCard from './SubmissionCard';
+import SubmissionForm from './SubmissionForm';
 
 const SubmissionsContainer = ({ filteredSubmissions }) => {
     return (

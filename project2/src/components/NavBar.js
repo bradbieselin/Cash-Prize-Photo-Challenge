@@ -8,6 +8,7 @@ const NavBar = () => {
             <NavLink to="/nature">Nature Challenge</NavLink>
             <NavLink to="cityscape">City Scape Challenge</NavLink>
             <NavLink to="/portrait">Portrait Challenge</NavLink>
+            <NavLink to="/submit">Submit</NavLink>
         </nav>
     );
 };

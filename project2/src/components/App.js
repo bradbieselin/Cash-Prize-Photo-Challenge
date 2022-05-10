@@ -5,6 +5,7 @@ import CityScape from "./CityScape";
 import Nature from "./Nature";
 import Portrait from "./Portrait";
 import NavBar from "./NavBar";
+import SubmissionForm from "./SubmissionForm";
 
 function App() {
   const [submissions, setSubmissions] = useState([]);
@@ -14,6 +15,18 @@ function App() {
     .then(res => res.json())
     .then(data => setSubmissions(data))
   }, []);
+
+  function addSubmission(newSub) {
+    fetch(`http://localhost:3000/submissions`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(newSub)
+    })
+    .then(res => res.json())
+    .then(setSubmissions([...submissions, newSub]));
+  }
 
   return (
     <div className="App">
@@ -30,6 +43,9 @@ function App() {
         </Route>
         <Route path="/portrait">
           <Portrait submissions={submissions} />
+        </Route>
+        <Route path="/submit">
+          <SubmissionForm addSubmission={addSubmission} />
         </Route>
         <Route path="*">
           <h1>404 not found</h1>

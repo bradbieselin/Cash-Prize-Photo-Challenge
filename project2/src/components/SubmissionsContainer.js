@@ -9,11 +9,19 @@ const SubContainerGrid = styled.div`
     margin: 2.5rem;
 `
 
+const Head = styled.h2`
+text-align: center;
+vertical-align: middle;
+`
+
 const SubmissionsContainer = ({ filteredSubmissions }) => {
     return (
-        <SubContainerGrid>
-            {filteredSubmissions.map(submission => <SubmissionCard key={submission.id} submission={submission} />)} 
-        </SubContainerGrid>
+        <>
+            <Head>Vote for your favorite submission</Head>
+            <SubContainerGrid>
+                {filteredSubmissions.map(submission => <SubmissionCard key={submission.id} submission={submission} />)} 
+            </SubContainerGrid>
+        </>
     );
 };
 

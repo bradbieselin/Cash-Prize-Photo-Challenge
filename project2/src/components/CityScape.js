@@ -1,9 +1,11 @@
 import React from 'react';
+import SubmissionsContainer from './SubmissionsContainer';
 
-const CityScape = () => {
+const CityScape = ({ submissions }) => {
+    const filteredSubmissions = submissions.filter((submission) => submission.challenge === "cityscape");
     return (
         <div>
-            CityScape
+            <SubmissionsContainer filteredSubmissions={filteredSubmissions} />
         </div>
     );
 };

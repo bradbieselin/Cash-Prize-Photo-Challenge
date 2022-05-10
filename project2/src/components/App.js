@@ -12,7 +12,7 @@ function App() {
   useEffect(() => {
     fetch("http://localhost:3000/submissions")
     .then(res => res.json())
-    .then(setSubmissions)
+    .then(data => setSubmissions(data))
   }, []);
 
   return (
@@ -23,13 +23,13 @@ function App() {
           <Home />
         </Route>
         <Route path="/cityscape">
-          <CityScape />
+          <CityScape submissions={submissions} />
         </Route>
         <Route path="/nature">
-          <Nature />
+          <Nature submissions={submissions} />
         </Route>
         <Route path="/portrait">
-          <Portrait />
+          <Portrait submissions={submissions} />
         </Route>
         <Route path="*">
           <h1>404 not found</h1>

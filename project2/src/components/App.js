@@ -30,6 +30,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Photo Challenge</h1>
       <NavBar />
       <Switch>
         <Route exact path="/">

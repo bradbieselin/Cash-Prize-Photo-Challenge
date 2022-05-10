@@ -1,11 +1,11 @@
 import React from 'react';
 import SubmissionsContainer from './SubmissionsContainer';
 
-const Portrait = ({ submissions }) => {
+const Portrait = ({ submissions, updateVotes }) => {
     const filteredSubmissions = submissions.filter((submission) => submission.challenge === "portrait");
     return (
         <div>
-            <SubmissionsContainer filteredSubmissions={filteredSubmissions} />
+            <SubmissionsContainer filteredSubmissions={filteredSubmissions} updateVotes={updateVotes} />
         </div>
     );
 };

@@ -9,8 +9,15 @@ const SubContainerGrid = styled.div`
   margin: 2.5rem;
 `;
 
+const Head = styled.h2`
+text-align: center;
+vertical-align: middle;
+`
+
 const SubmissionsContainer = ({ filteredSubmissions, updateVotes }) => {
   return (
+    <>
+    <Head>Vote for your favorite submission</Head>
     <SubContainerGrid>
       {filteredSubmissions.map((submission) => (
         <SubmissionCard
@@ -20,6 +27,7 @@ const SubmissionsContainer = ({ filteredSubmissions, updateVotes }) => {
         />
       ))}
     </SubContainerGrid>
+   </>
   );
 };
 

@@ -76,9 +76,9 @@ code {
   filter: blur(50px);
 }
 
-.blockCard:after {
+/* .blockCard:after {
   filter: blur(50px);
-}
+} */
 
 a {
   text-decoration: none;

@@ -5,6 +5,7 @@ import { NavLink } from 'react-router-dom';
 const Welcome = styled.h2`
     padding-top: 1rem;
     font-size: 22px;
+    padding-bottom: 1rem;
 `
 
 const NavBarUnderBox = styled.div`

@@ -61,21 +61,21 @@
       "challenge": "nature",
       "photographer": "Brody Losh",
       "image": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2019/10/Karthika-Gupta-Compelling-Nature-Photos-6.jpg?fit=1500%2C1000&ssl=1",
-      "votes": 20
+      "votes": 41
     },
     {
       "id": 10,
       "challenge": "nature",
       "photographer": "Brody Losh",
       "image": "https://cdn-ajggd.nitrocdn.com/kMoOFpDlsOVtlYJLrnSRNCQXaUFHZPTY/assets/static/optimized/rev-536aa32/wp-content/uploads/2021/01/nature-photography.jpg",
-      "votes": 17
+      "votes": 26
     },
     {
       "id": 11,
       "challenge": "nature",
       "photographer": "Brody Losh",
       "image": "https://cdn2.outdoorphotographer.com/2021/04/focus-peaking-josh-miller-focus-peaking-5-457x305.jpg",
-      "votes": 20
+      "votes": 37
     },
     {
       "id": 12,
@@ -89,14 +89,14 @@
       "challenge": "nature",
       "photographer": "Brody Losh",
       "image": "https://petapixel.com/assets/uploads/2022/03/world-nature-photography-awards-001.jpg",
-      "votes": 0
+      "votes": 4
     },
     {
       "id": 14,
       "challenge": "nature",
       "photographer": "Brody Losh",
       "image": "https://cdn2.outdoorphotographer.com/2019/06/brian_matiash_scale02-824x550.jpg",
-      "votes": 0
+      "votes": 5
     },
     {
       "id": 15,
@@ -174,6 +174,13 @@
       "photographer": "Brad Bieselin",
       "image": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2020/09/d41d350481733e8c9182a6ab5fa7fe7c.jpg",
       "votes": 1
+    },
+    {
+      "id": "71a81853-9711-4ca2-88b0-5cc1e3339225",
+      "challenge": "portrait",
+      "photographer": "Trever Klaus",
+      "image": "https://media-exp1.licdn.com/dms/image/C4E03AQEP3Qqgxdd2FA/profile-displayphoto-shrink_800_800/0/1570049822924?e=1657756800&v=beta&t=ULm99XpiYyD-RAZ3MFlGdGycjh5ZBxPHFJ610JXWr-s",
+      "votes": 16
     }
   ]
 }

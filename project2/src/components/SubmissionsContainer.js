@@ -18,6 +18,7 @@ const SubmissionsContainer = ({ filteredSubmissions, updateVotes }) => {
   return (
     <>
       <Head>Vote for your favorite submission</Head>
+      <Head>Cash Prize: $1000</Head>
       <SubContainerGrid>
         {filteredSubmissions.map((submission) => (
           <SubmissionCard

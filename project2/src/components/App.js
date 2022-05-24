@@ -58,8 +58,6 @@ function App() {
     return 0;
   });
 
-  // console.log(sortedSubmissions);
-
   const Gradient = styled.div`
     background: linear-gradient(
       90deg,
